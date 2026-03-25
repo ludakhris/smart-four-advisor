@@ -4,7 +4,7 @@ A 3D move analysis engine for the [GiiKER Smart Four](https://shop-giiker.myshop
 
 **[Try it live →](https://www.mrchow.guru/smart-four-advisor/)**
 
-![Smart Four Advisor](./screenshot.png)
+![Smart Four Advisor](./screenshot.jpg)
 
 Smart Four is a 3D twist on Connect Four played on a 5×5 grid where pieces stack up to 5 levels high. You can connect four in a row horizontally, vertically, diagonally across the board, straight up, or along any 3D diagonal. The computer AI is no joke, especially on hard mode. This advisor runs alongside your physical game and tells you exactly where to play.
 
