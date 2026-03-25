@@ -2,6 +2,10 @@
 
 A 3D move analysis engine for the [GiiKER Smart Four](https://shop-giiker.myshopify.com/products/smart-four-ai-featured-3-dimensional-electronic-4-in-a-row-connect-strategy-board-game) board game — built to help you beat the computer on hard mode.
 
+**[Try it live →](https://www.mrchow.guru/smart-four-advisor/)**
+
+![Smart Four Advisor](./screenshot.png)
+
 Smart Four is a 3D twist on Connect Four played on a 5×5 grid where pieces stack up to 5 levels high. You can connect four in a row horizontally, vertically, diagonally across the board, straight up, or along any 3D diagonal. The computer AI is no joke, especially on hard mode. This advisor runs alongside your physical game and tells you exactly where to play.
 
 ## How It Works
